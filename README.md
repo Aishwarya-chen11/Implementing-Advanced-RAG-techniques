@@ -33,10 +33,10 @@ A dashboard/leaderboard (via TruLens) tracks **CR/G/AR**, **latency**, **tokens*
 
 ## Repo / Notebook Map
 
-* **`Advanced_RAG_Pipeline.ipynb`** / **`L1-Advanced_RAG_Pipeline.ipynb`** – end-to-end pipeline & comparisons.
-* **`RAG_Triad_of_metrics.ipynb`** – feedback functions and leaderboard wiring.
-* **`Sentence_window_retrieval.ipynb`** – SWR parser, post-processors, window-size experiments.
-* **`Auto-merging_Retrieval.ipynb`** – hierarchical nodes, AMR retriever, merge behavior.
+* **`Advanced_RAG_Pipeline.ipynb`**  – end-to-end pipeline & comparisons. [Open Colab Notebook](https://github.com/Aishwarya-chen11/Implementing-Advanced-RAG-techniques/blob/main/Advanced_RAG_Pipeline.ipynb)
+* **`RAG_Triad_of_metrics.ipynb`** – feedback functions and leaderboard wiring. [Open Colab Notebook](https://github.com/Aishwarya-chen11/Implementing-Advanced-RAG-techniques/blob/main/RAG_Triad_of_metrics.ipynb)
+* **`Sentence_window_retrieval.ipynb`** – SWR parser, post-processors, window-size experiments. [Open Colab Notebook](https://github.com/Aishwarya-chen11/Implementing-Advanced-RAG-techniques/blob/main/Sentence_window_retrieval.ipynb)
+* **`Auto-merging_Retrieval.ipynb`** – hierarchical nodes, AMR retriever, merge behavior. [Open Colab Notebook](https://github.com/Aishwarya-chen11/Implementing-Advanced-RAG-techniques/blob/main/Auto-merging_Retrieval.ipynb)
 
 ---
 
